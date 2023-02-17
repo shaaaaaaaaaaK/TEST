@@ -1,3 +1,3 @@
 # TEST
 
-* (read)[nihao.md]
+* [read](nihao.md)
